@@ -12,7 +12,9 @@ I am Luis Santeliz, a passionate front-end developer with experience in:
 I use Vite to speed up and optimize my project development. My focus is on continuously improving my skills and contributing to innovative projects as a dedicated developer.
 
 
-You can contact me by
-- [whatsapp](https://wa.me/584127924818)
+### Connect with me:
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/584127924818)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-santeliz-678935193/)
 
 
