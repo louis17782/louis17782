@@ -1,5 +1,16 @@
 ### Hi there 👋
-My name is Luis Santeliz, and I am a passionate front-end developer. I specialize in HTML, CSS, and JavaScript, with additional expertise in Sass, SassScript, jQuery, Bootstrap, and React. My goal is to continually refine my skills and contribute to innovative projects as a dedicated front-end developer
+I am Luis Santeliz, a passionate front-end developer with experience in:
+
+![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+I use Vite to speed up and optimize my project development. My focus is on continuously improving my skills and contributing to innovative projects as a dedicated developer.
+
 
 You can contact me by
 - [whatsapp](https://wa.me/584127924818)
