@@ -16,5 +16,6 @@ I use Vite to speed up and optimize my project development. My focus is on conti
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/584127924818)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-santeliz-678935193/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=flat&logo=internet-explorer&logoColor=white)](https://luissanteliz.dev)  
 
 
